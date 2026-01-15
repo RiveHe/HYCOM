@@ -32,5 +32,5 @@ This project evaluates correlation structure by:
 
 ---
 
-## Repository structure (edit to match your repo)
+
 
