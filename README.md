@@ -25,10 +25,9 @@ This project evaluates correlation structure by:
 
 **Model:** HYCOM (HYbrid Coordinate Ocean Model)  
 **Variable(s):** bottom pressure (or sea-floor pressure / pressure anomaly depending on product)  
-**Spatial sampling:** user-defined points along and across the trench  
+**Spatial sampling:** user-defined points along and across the trench and along trench
 **Time window:** configurable in the scripts
 
-> Note: HYCOM files are not included in this repo. See `config/` and “How to run” for expected inputs.
 
 ---
 
